@@ -1,4 +1,4 @@
-import main from "../src/hello";
+import main from "../src";
 
 describe('hello', () => {
     it('test', () => {
